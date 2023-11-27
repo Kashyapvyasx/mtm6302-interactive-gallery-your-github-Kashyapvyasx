@@ -51,7 +51,7 @@ let images =  [
 
 let gallery = document.getElementById("gallery");
 let modal = document.getElementById("modal");
-let modalImageContainer = document.getElementById("modal-img-container");
+let ImageContainer = document.getElementById("image-container");
 let modalImage = document.getElementById("modal-img");
 let modalDescription = document.getElementById("modal-description");
 
